@@ -1,0 +1,249 @@
+[
+    {
+        "account_name": "femi",
+        "balance": 2900,
+        "transactions": []
+    },
+    {
+        "account_name": "timi",
+        "balance": 10000,
+        "transactions": []
+    },
+    {
+        "account_name": "ada",
+        "balance": 7000,
+        "transactions": []
+    },
+    {
+        "account_name": "chidi",
+        "balance": 12500.0,
+        "transactions": [
+            {
+                "from": "chidi",
+                "transaction_type": "Transfer Out",
+                "amount": 3000.0,
+                "to": "ronke"
+            }
+        ]
+    },
+    {
+        "account_name": "tunde",
+        "balance": 0.0,
+        "transactions": [
+            {
+                "from": "tunde",
+                "transaction_type": "Transfer Out",
+                "amount": 2000.0,
+                "to": "ronke"
+            },
+            {
+                "from": "tunde",
+                "transaction_type": "Transfer Out",
+                "amount": 2200.0,
+                "to": "ronke"
+            }
+        ]
+    },
+    {
+        "account_name": "yemi",
+        "balance": 25000,
+        "transactions": []
+    },
+    {
+        "account_name": "amaka",
+        "balance": 8300,
+        "transactions": []
+    },
+    {
+        "account_name": "bisi",
+        "balance": 1200,
+        "transactions": []
+    },
+    {
+        "account_name": "chukwuma",
+        "balance": 45000,
+        "transactions": []
+    },
+    {
+        "account_name": "funmi",
+        "balance": 6100,
+        "transactions": []
+    },
+    {
+        "account_name": "ike",
+        "balance": 19000,
+        "transactions": []
+    },
+    {
+        "account_name": "sade",
+        "balance": 3400,
+        "transactions": []
+    },
+    {
+        "account_name": "bola",
+        "balance": 750,
+        "transactions": []
+    },
+    {
+        "account_name": "nnena",
+        "balance": 11200,
+        "transactions": []
+    },
+    {
+        "account_name": "tope",
+        "balance": 8800,
+        "transactions": []
+    },
+    {
+        "account_name": "emeka",
+        "balance": 32000,
+        "transactions": []
+    },
+    {
+        "account_name": "kunle",
+        "balance": 5400,
+        "transactions": []
+    },
+    {
+        "account_name": "chioma",
+        "balance": 17500,
+        "transactions": []
+    },
+    {
+        "account_name": "segun",
+        "balance": 9100,
+        "transactions": []
+    },
+    {
+        "account_name": "ngozi",
+        "balance": 22000,
+        "transactions": []
+    },
+    {
+        "account_name": "jide",
+        "balance": 13100.0,
+        "transactions": [
+            {
+                "from": "uche",
+                "transaction_type": "Transfer In",
+                "amount": 10000.0,
+                "to": "jide"
+            }
+        ]
+    },
+    {
+        "account_name": "ifeanyi",
+        "balance": 13400,
+        "transactions": []
+    },
+    {
+        "account_name": "ronke",
+        "balance": 25400.0,
+        "transactions": [
+            {
+                "from": "uche",
+                "transaction_type": "Transfer In",
+                "amount": 10000.0,
+                "to": "ronke"
+            },
+            {
+                "from": "chidi",
+                "transaction_type": "Transfer In",
+                "amount": 3000.0,
+                "to": "ronke"
+            },
+            {
+                "from": "ola",
+                "transaction_type": "Transfer In",
+                "amount": 3200.0,
+                "to": "ronke"
+            },
+            {
+                "from": "tunde",
+                "transaction_type": "Transfer In",
+                "amount": 2000.0,
+                "to": "ronke"
+            },
+            {
+                "from": "tunde",
+                "transaction_type": "Transfer In",
+                "amount": 2200.0,
+                "to": "ronke"
+            }
+        ]
+    },
+    {
+        "account_name": "uche",
+        "balance": 200000.0,
+        "transactions": [
+            {
+                "from": "uche",
+                "transaction_type": "Transfer Out",
+                "amount": 10000.0,
+                "to": "GT Bank"
+            },
+            {
+                "from": "uche",
+                "transaction_type": "Transfer Out",
+                "amount": 10000.0,
+                "to": "GT Bank"
+            },
+            {
+                "from": "uche",
+                "transaction_type": "Transfer Out",
+                "amount": 10000.0,
+                "to": "GT Bank"
+            },
+            {
+                "from": "uche",
+                "transaction_type": "Transfer Out",
+                "amount": 1500.0,
+                "to": "ola"
+            }
+        ]
+    },
+    {
+        "account_name": "ola",
+        "balance": 10300.0,
+        "transactions": [
+            {
+                "from": "uche",
+                "transaction_type": "Transfer In",
+                "amount": 10000.0,
+                "to": "ola"
+            },
+            {
+                "from": "uche",
+                "transaction_type": "Transfer In",
+                "amount": 1500.0,
+                "to": "ola"
+            },
+            {
+                "from": "ola",
+                "transaction_type": "Transfer Out",
+                "amount": 3200.0,
+                "to": "ronke"
+            }
+        ]
+    },
+    {
+        "account_name": "george",
+        "balance": 3000000.0,
+        "transactions": []
+    },
+    {
+        "account_name": "theorica capital",
+        "balance": 200000.0,
+        "transactions": []
+    },
+    {
+        "account_name": "israel",
+        "balance": 2000.0,
+        "transactions": []
+    },
+    {
+        "account_name": "michi",
+        "balance": 100000.0,
+        "transactions": []
+    }
+]
