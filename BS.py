@@ -682,7 +682,7 @@ class BankGUI(ctk.CTk):
 
 
 if __name__ == "__main__":
-    bank = Bank("GT Bank")
+    bank = Bank("Tuborrr-Dev Bank")
     bank.load_accounts()
     app = BankGUI(bank)
     app.mainloop()
